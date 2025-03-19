@@ -22,6 +22,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "app/page.tsx", "context/AppContext.tsx", "components/Sidebar.tsx", "app/layout.tsx", "components/PromptBox.tsx", "config/db.js", "app/api/clerk/route.js"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "app/page.tsx", "context/AppContext.tsx", "components/Sidebar.tsx", "app/layout.jsx", "components/PromptBox.tsx", "config/db.js", "app/api/clerk/route.js"],
   "exclude": ["node_modules"]
 }
